@@ -91,6 +91,11 @@ Before building full-scale AI applications, I'm using this phase to:
 | Decision Trees | Understood decision paths and model interpretability |
 | Clustering | Visualized and interpreted KMeans clusters |
 | Data Visualization | Used pairplots, scatterplots, and decision trees to explain behavior |
+| Classification Types | Learned how to implement and evaluate different types of classification problems including **binary classification**, **multi-class classification**, and **multi-label classification**. Explored how activation functions (e.g., sigmoid vs. softmax), label formats, and loss functions vary across tasks. |
+| Regression | Practiced using regression models to predict continuous values, such as energy efficiency, and evaluated performance using Mean Squared Error. |
+| Amazon PartyRock | Used Amazon’s low-code generative AI tool to build a **Software Engineer Project Idea Brainstormer**, which recommends project ideas along with timelines, skill requirements, tips, and resources. Learned how generative tools can prototype practical applications with minimal code. |
+| Amazon SageMaker | Explored Amazon SageMaker to understand how to build, train, and deploy ML models at scale in the cloud. Learned how to structure ML workflows using notebooks and how SageMaker supports experimentation and production-level deployment. |
+| Generation Strategies | Learned about different generative decoding strategies such as **Top-k sampling**, **Top-p (nucleus) sampling**, **beam search**, and **greedy decoding**. Understood how these methods influence the diversity and determinism of AI-generated text. |
 
 ---
 
